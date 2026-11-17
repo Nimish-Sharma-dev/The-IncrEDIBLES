@@ -522,10 +522,10 @@ All libraries, APIs, datasets, and AI tools used in the final implementation sho
 
 | Member | Responsibility |
 |---|---|
-| [Vansh Baranwal] | Product & Pitch Lead |
-| [Omkar DK] | Backend, Data & Matching Engine |
-| [D Venkat Abhishek] | Frontend & WhatsApp Bot |
-| [Nimish Sharma] | Field Research, Club & NGO Outreach |
+| Vansh Baranwal | Product & Pitch Lead |
+| Omkar DK | Backend, Data & Matching Engine |
+| D Venkat Abhishek | Frontend & WhatsApp Bot |
+| Nimish Sharma | Field Research, Club & NGO Outreach |
 
 ---
 
